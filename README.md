@@ -1,3 +1,3 @@
-START_SECTION:waka1
+<!-- START_SECTION:waka1 -->
 
-END_SECTION:waka1
+<!-- END_SECTION:waka1 -->
