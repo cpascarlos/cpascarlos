@@ -1,4 +1,5 @@
 # Salut, c'est carlos 👋
+![HitCount](https://views.whatilearened.today/views/github/cpascarlos/creative-profile-readme.svg)
 Passionné par l'exploration des systèmes et l'automatisation. Je m'intéresse particulièrement à la création d'outils sur Discord, à l'UX Automation et à la manipulation de navigateurs (Web Scraping / Browser Control). Vous trouverez sur mon github certains ce ces projets, mais aussi des projets plus scolaires/académiques réalisés dans le cadre de mes études.
 
 ---
